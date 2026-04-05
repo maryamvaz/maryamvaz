@@ -7,5 +7,5 @@
 
 💻 I'm currently working as a Data Scientist at Radiological Society of North America (RSNA)  
 🧠 Exploring how AI can create meaningful improvements in radiology and healthcare overall  
-🦥 Fun facts: I love animals and exploring nature. I’m also learning Farsi in my free time!
+
 
